@@ -1,0 +1,103 @@
+/* Estilos generales y limpieza de caja [cite: 151] */
+* {
+    box-sizing: border-box;
+    font-family: 'Helvetica', sans-serif; /* Familia de fuente sugerida [cite: 190] */
+}
+
+body {
+    margin: 0;
+    background-color: #faf0e6; /* Fondo lino/crema claro */
+    color: #4b3621; /* Texto color café oscuro */
+}
+
+/* Estilo del encabezado [cite: 140] */
+header {
+    text-align: center;
+    padding: 30px;
+    background-color: #6f4e37; /* Fondo café */
+    color: #ffffff;
+}
+
+/* Estilo de la barra de navegación [cite: 185] */
+nav {
+    text-align: center;
+    word-spacing: 20px;
+    padding: 15px;
+    background-color: #f5f5dc; /* Beige  */
+    border-bottom: 2px solid #6f4e37;
+}
+
+/* Estilo de los enlaces de navegación [cite: 193] */
+nav a {
+    color: #4b3621;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+}
+
+nav a:hover {
+    color: #a0522d; /* Cambio de color al pasar el mouse */
+}
+
+/* Layout flexible para columnas [cite: 154] */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Cajas de texto principales [cite: 158] */
+.post-text-box {
+    flex: 60%;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Sección de imagen/perfil [cite: 162] */
+.profile {
+    flex: 30%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilo de la imagen [cite: 167] */
+.profile img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
+}
+
+/* Tarjetas de servicios */
+.service-card {
+    background-color: #ffffff;
+    border: 1px solid #d2b48c; /* Borde color bronceado */
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px;
+    width: 200px; /* Ancho fijo para las tarjetas */
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    color: #6f4e37; /* Títulos en café */
+}
+
+/* Pie de página [cite: 56] */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #6f4e37;
+    color: white;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #f5f5dc;
+    margin: 0 10px;
+    text-decoration: none;
+}
