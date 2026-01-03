@@ -369,13 +369,13 @@
         <div class="footer-content">
             <div class="footer-column">
                 <h4>Signori Bistró</h4>
-                <p>Tu destino favorito para el café y la buena comida.</p>
+                <p>Visitanos en: https://maps.app.goo.gl/DcTzPc7GkCqaKCRo8?g_st=aw</p>
             </div>
             <div class="footer-column">
                 <h4>Horarios</h4>
                 <ul>
                     <li>Lunes - Viernes: 8:00 AM - 4:00 PM</li>
-                    <li>Sábado y Domingo Cerrado</li>
+                    <li>Sábado y Domingo: Cerrado</li>
                 </ul>
             </div>
             <div class="footer-column">
