@@ -369,7 +369,7 @@
         <div class="footer-content">
             <div class="footer-column">
                 <h4>Signori Bistró</h4>
-                <p>Visitanos en: https://maps.app.goo.gl/DcTzPc7GkCqaKCRo8?g_st=aw</p>
+                <a href="https://maps.app.goo.gl/DcTzPc7GkCqaKCRo8?g_st=aw" target="_blank">Ver nuestra Ubicación</a>
             </div>
             <div class="footer-column">
                 <h4>Horarios</h4>
