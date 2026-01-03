@@ -356,7 +356,7 @@
                     <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Bebidas">
                     <div class="service-content">
                         <h3>Bebidas de Autor</h3>
-                        <p>Refresca tu día con nuestras famosas sangrías, smoothies naturales y bebidas frías diseñadas por nuestros mixólogos.</p>
+                        <p>Refresca tu día con nuestras famosas sangrías, licuados naturales y bebidas frías diseñadas por nuestros mixólogos.</p>
                     </div>
                 </div>
 
@@ -374,15 +374,14 @@
             <div class="footer-column">
                 <h4>Horarios</h4>
                 <ul>
-                    <li>Lunes - Viernes: 7:00 AM - 8:00 PM</li>
-                    <li>Sábados: 8:00 AM - 9:00 PM</li>
-                    <li>Domingos: 8:00 AM - 6:00 PM</li>
+                    <li>Lunes - Viernes: 8:00 AM - 4:00 PM</li>
+                    <li>Sábado y Domingo Cerrado</li>
                 </ul>
             </div>
             <div class="footer-column">
                 <h4>Contacto</h4>
                 <ul>
-                    <li><a href="#">Tel: +502 5555-0000</a></li>
+                    <li><a href="#">Tel: +502 30795536</a></li>
                     <li><a href="#">Email: info@signoribistro.com</a></li>
                     <li><a href="#">Instagram: @signoribistro</a></li>
                 </ul>
